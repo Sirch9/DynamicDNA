@@ -1,1 +1,1 @@
-#My first experience as a programmer. Witness my glory as I progress.
+#My first project as a programmer. Witness my glory as I progress and become better.
